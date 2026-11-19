@@ -15,7 +15,7 @@ In 2025–26, **82.2% in reading and 83.1% in math** of students who started bel
 
 **[Analysis notebook](notebooks/fairmont_school_analysis.ipynb)** · **[PowerPoint briefing](briefing/KaWaiSit_Level_Director_Briefing.pptx)** · **[Methodology](docs/methodology.md)** · **[Data availability](data/README.md)**
 
-![Paired spring Benchmark status and positive score change, with separate reading and math denominators](learning_results/learning_progress_and_status.png)
+![In 2025–26, 90.5% of reading students and 93.0% of math students who were below Benchmark at both tests gained score points. Across both subjects, 618 of 1,401 enrolled students were below at both tests in at least one subject.](figures/elementary-school-progress-overview.png)
 
 ## Key Findings
 
