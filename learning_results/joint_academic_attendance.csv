@@ -1,0 +1,11 @@
+academic_need,attendance_band,students
+Incomplete paired information,10% or more absence,52
+Incomplete paired information,Below 10% absence,229
+No persistent-below pattern in either subject,10% or more absence,57
+No persistent-below pattern in either subject,Below 10% absence,521
+Persistent below in Mathematics only,10% or more absence,25
+Persistent below in Mathematics only,Below 10% absence,110
+Persistent below in Reading only,10% or more absence,31
+Persistent below in Reading only,Below 10% absence,122
+Persistent below in both subjects,10% or more absence,72
+Persistent below in both subjects,Below 10% absence,182

@@ -1,0 +1,3 @@
+subject,rows,students,parameters,converged,design_rank,weighted_rank,max_absolute_score,minimum_fitted_probability,maximum_fitted_probability,maximum_cooks_distance,supported_strata,observed_strata,standardization_rows,well_below_reached_at_above
+Reading,1690,967,12,True,12,12,1.4476598045320976e-10,0.6147679503258396,0.9799955288280169,0.007779511340650853,72,72,1690,24
+Mathematics,1637,938,12,True,12,12,4.9734213275476336e-11,0.6018301571092696,0.9812165247974012,0.008033748915861774,72,72,1637,23

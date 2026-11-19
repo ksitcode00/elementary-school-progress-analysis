@@ -1,0 +1,5 @@
+,Fitted rows,Unique students,Students with repeated records,Unused supplied rows,Covariance type,Design columns,Design rank,Residual degrees of freedom,Flagged records (screen only)
+Reading M1,3653,1780,1211,0,cluster,12,12,3641.0,157
+Reading M2,3653,1780,1211,0,cluster,13,13,3640.0,187
+Mathematics M1,3606,1779,1204,0,cluster,12,12,3594.0,162
+Mathematics M2,3606,1779,1204,0,cluster,13,13,3593.0,193

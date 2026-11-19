@@ -1,0 +1,3 @@
+subject,enrolled_subject_rows,classified_pairs,incomplete_tests,missing_levels,fall_below,persistent_below,moved_to_at_above,moved_below,at_above_both,persistent_pct_of_fall_below,persistent_pct_of_pairs,pair_coverage_pct
+Mathematics,1401,1222,179,0,516,429,87,90,616,83.13953488372093,35.1063829787234,87.22341184867952
+Reading,1401,1231,170,0,539,443,96,96,596,82.18923933209648,35.98700243704305,87.86581013561742

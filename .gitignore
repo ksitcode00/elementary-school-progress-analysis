@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/source/
+Files/
+*.duckdb
+*.duckdb.wal
+Fairmont_LD_Dashboard.html
+*.zip

@@ -1,0 +1,19 @@
+subject,model,term,wald_F,df_numerator,df_denominator,p_value
+Reading,Model 1,"C(school_id, Treatment(reference=101))",1.5485832405913937,3.0,1779.0,0.20005317950081786
+Reading,Model 1,"C(grade_level, Treatment(reference=0))",22.1191116539107,5.0,1779.0,1.4627474413136672e-21
+Reading,Model 1,"C(school_year, Treatment(reference=2024))",1.9539513638091077,2.0,1779.0,0.14201701655953328
+Reading,Model 1,fall_score,10771.764648613524,1.0,1779.0,0.0
+Reading,Model 2,"C(school_id, Treatment(reference=101))",1.6941475988956471,3.0,1779.0,0.1662716982485926
+Reading,Model 2,"C(grade_level, Treatment(reference=0))",19.45468761483547,5.0,1779.0,6.621423394180025e-19
+Reading,Model 2,"C(school_year, Treatment(reference=2024))",1.8022646830777789,2.0,1779.0,0.16522595593126105
+Reading,Model 2,fall_score,10141.152448242017,1.0,1779.0,0.0
+Reading,Model 2,absence_5pp,5.835168360003173,1.0,1779.0,0.01580910756161282
+Mathematics,Model 1,"C(school_id, Treatment(reference=101))",0.40648586215276344,3.0,1778.0,0.7483594872780533
+Mathematics,Model 1,"C(grade_level, Treatment(reference=0))",9.340556200858343,5.0,1778.0,8.510175966759335e-09
+Mathematics,Model 1,"C(school_year, Treatment(reference=2024))",0.013221826638819321,2.0,1778.0,0.9868652947780316
+Mathematics,Model 1,fall_score,8300.574326644766,1.0,1778.0,0.0
+Mathematics,Model 2,"C(school_id, Treatment(reference=101))",0.46576628188650165,3.0,1778.0,0.7062046239580233
+Mathematics,Model 2,"C(grade_level, Treatment(reference=0))",7.387741623989617,5.0,1778.0,7.233370995878754e-07
+Mathematics,Model 2,"C(school_year, Treatment(reference=2024))",0.01726301583435271,2.0,1778.0,0.9828853010209307
+Mathematics,Model 2,fall_score,7676.504798406517,1.0,1778.0,0.0
+Mathematics,Model 2,absence_5pp,14.08946406348463,1.0,1778.0,0.00017991819917538487

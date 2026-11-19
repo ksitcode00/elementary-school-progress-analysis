@@ -1,0 +1,25 @@
+subject,fall_performance_level,spring_performance_level,students
+Mathematics,Above Benchmark,Above Benchmark,87
+Mathematics,Above Benchmark,At Benchmark,57
+Mathematics,At Benchmark,Above Benchmark,48
+Mathematics,At Benchmark,At Benchmark,424
+Mathematics,At Benchmark,Below Benchmark,84
+Mathematics,At Benchmark,Well Below Benchmark,6
+Mathematics,Below Benchmark,At Benchmark,83
+Mathematics,Below Benchmark,Below Benchmark,145
+Mathematics,Below Benchmark,Well Below Benchmark,66
+Mathematics,Well Below Benchmark,At Benchmark,4
+Mathematics,Well Below Benchmark,Below Benchmark,61
+Mathematics,Well Below Benchmark,Well Below Benchmark,157
+Reading,Above Benchmark,Above Benchmark,90
+Reading,Above Benchmark,At Benchmark,45
+Reading,At Benchmark,Above Benchmark,46
+Reading,At Benchmark,At Benchmark,415
+Reading,At Benchmark,Below Benchmark,90
+Reading,At Benchmark,Well Below Benchmark,6
+Reading,Below Benchmark,At Benchmark,89
+Reading,Below Benchmark,Below Benchmark,145
+Reading,Below Benchmark,Well Below Benchmark,70
+Reading,Well Below Benchmark,At Benchmark,7
+Reading,Well Below Benchmark,Below Benchmark,49
+Reading,Well Below Benchmark,Well Below Benchmark,179

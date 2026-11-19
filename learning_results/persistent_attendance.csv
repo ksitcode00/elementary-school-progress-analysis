@@ -1,0 +1,4 @@
+attendance_band,students,median_enrolled_days,pct_of_identified_students
+Below 10% absence,475,185.0,76.86084142394822
+10% or more absence,143,185.0,23.13915857605178
+Attendance unavailable,0,,0.0
